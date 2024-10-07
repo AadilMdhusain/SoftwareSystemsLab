@@ -2,7 +2,7 @@
 
 List of Questions of Hands on List 2-
 
-1. Write a separate program (for each time domain) to set a interval timer in 10 sec and 10 micro second-
+1. Write a separate program (for each time domain) to set a interval timer in 10 sec and 10 micro second-  
    a. ITIMER_REAL  
    b. ITIMER_VIRTUAL  
    c. ITIMER_PROF  
