@@ -2,10 +2,10 @@
 
 List of Questions of Hands on List 2-
 
-1. Write a separate program (for each time domain) to set a interval timer in 10 sec and 10 micro second-
-   a. ITIMER_REAL
-   b. ITIMER_VIRTUAL
-   c. ITIMER_PROF
+1. Write a separate program (for each time domain) to set a interval timer in 10 sec and 10 micro second- \n
+   a. ITIMER_REAL \n
+   b. ITIMER_VIRTUAL \n
+   c. ITIMER_PROF \n
 2. Write a program to print the system resource limits. Use getrlimit system call.
 3. Write a program to set (any one) system resource limit. Use setrlimit system call.
 4. Write a program to measure how much time is taken to execute 100 getppid ( ) system call. Use time stamp counter.
